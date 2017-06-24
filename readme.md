@@ -1,7 +1,7 @@
 # Spring boot prac 
 
 ## Problem description
-###Exercise
+### Exercise
 
 * Create a new web application
 * Create some configuration values in both a properties/YAML configuration file.
